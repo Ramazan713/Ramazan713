@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Ramazan Şengül</h1>
+
 - 🌱 I’m currently learning **Deep Learning, Mobile Application Development**
 
 - 📫 How to reach me **ramazansengul137@gmail.com**
+
+- How to reach my mobile applications i developed on google play **https://play.google.com/store/apps/developer?id=MasterPlus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
