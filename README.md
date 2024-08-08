@@ -7,7 +7,7 @@
 - How to reach my mobile applications i developed on google play **https://play.google.com/store/apps/developer?id=MasterPlus**
 
 ## My Apps
-- [Hadis ve Ayet](https://github.com/Ramazan713/Hadis-ve-Ayet)
+- [Hadis ve Ayet](https://play.google.com/store/apps/details?id=com.masterplus.hadiths)
 - [Türkçe ve Osmanlıca Sözlük](https://github.com/Ramazan713/Turkce-ve-Osmanlica-Sozluk)
 - [Note X](https://github.com/Ramazan713/Note-X)
 - [Mesnevi](https://github.com/Ramazan713/Mesnevi)
